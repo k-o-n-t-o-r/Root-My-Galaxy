@@ -103,6 +103,8 @@
     <string name="log_profile">[+] Support profile: %1$s</string>
     <string name="log_download_verified">[+] Payload download complete</string>
     <string name="log_install_complete">[+] Installation complete</string>
+    <string name="log_boot_settle_wait">[*] Waiting %1$d s for the system to settle after boot</string>
+    <string name="log_boot_settled">[+] Boot settled (%1$d min of uptime)</string>
     <string name="log_bootstrap_root">[+] Bootstrap root acquired</string>
     <string name="log_ksu_staged">[+] KernelSU staging complete</string>
     <string name="log_ksu_control_verified">[+] KernelSU control channel verified</string>
